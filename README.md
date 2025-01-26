@@ -6,14 +6,15 @@
   
   ### Full Stack Developer | Code Enthusiast
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raivandeberg)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rai-vandenberg)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaiVandeberg)
 </div>
 
 ## 👋 About Me
 
-Hello! I'm Rai Vandeberg, a passionate developer who loves creating innovative solutions and contributing to the open-source community. I believe in writing clean, maintainable code and building applications that make a difference.
+Oi! Sou alguém que sempre foi fascinado por tecnologia e como ela pode mudar nossas vidas. Comecei minha jornada profissional como designer gráfico, mas, com o tempo, percebi que queria ir além de criar coisas bonitas — eu queria construir coisas que funcionassem e resolvessem problemas reais.
 
+Foi aí que me apaixonei pela programação. Estou mergulhando de cabeça no universo do desenvolvimento fullstack, aprendendo algo novo a cada dia e me desafiando a criar projetos que unam design e funcionalidade. É incrível transformar ideias em algo que as pessoas realmente podem usar.
 ## 🛠️ Tech Stack
 
 <div align="center">

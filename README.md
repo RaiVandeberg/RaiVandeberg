@@ -48,7 +48,7 @@ Your third featured project with key highlights.
 
 - 💼 Open for collaboration on interesting projects
 - 📧 Email: your.email@example.com (replace with your email)
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com) (replace with your website)
+- 🌐 Portfolio: Em Criação
 
 ## 🎯 Goals for 2024
 

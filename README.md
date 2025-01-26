@@ -44,7 +44,7 @@ Foi aí que me apaixonei pela programação. Estou mergulhando de cabeça no uni
 ## 📫 Let's Connect
 
 - 💼 Open for collaboration on interesting projects
-- 📧 Email: your.email@example.com (replace with your email)
+- 📧 Email: 
 - 🌐 Portfolio: em Criação
 
 ## 🎯 Goals for 2024

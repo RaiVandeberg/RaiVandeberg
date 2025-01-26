@@ -16,15 +16,20 @@ Hello! I'm Rai Vandeberg, a passionate developer who loves creating innovative s
 
 ## 🛠️ Tech Stack
 
-```javascript
-const skills = {
-    languages: ['JavaScript', 'TypeScript', 'Python', 'Java'],
-    frontend: ['React', 'Next.js', 'Tailwind CSS', 'HTML5', 'CSS3'],
-    backend: ['Node.js', 'Express', 'Django', 'Spring Boot'],
-    databases: ['PostgreSQL', 'MongoDB', 'Redis'],
-    tools: ['Git', 'Docker', 'AWS', 'VS Code']
-};
-```
+<div align="center">
+
+### Languages & Frontend
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://javascript.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+### Backend & Tools
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+
+</div>
 
 ## 📊 GitHub Stats
 
@@ -33,22 +38,13 @@ const skills = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaiVandeberg&theme=dracula" alt="GitHub Streak" />
 </div>
 
-## 🌟 Featured Projects
 
-### 🚀 Project 1
-Description of your awesome project goes here. Include tech stack, features, and links.
-
-### 💡 Project 2
-Another cool project description. Share what makes it special.
-
-### 🎯 Project 3
-Your third featured project with key highlights.
 
 ## 📫 Let's Connect
 
 - 💼 Open for collaboration on interesting projects
 - 📧 Email: your.email@example.com (replace with your email)
-- 🌐 Portfolio: Em Criação
+- 🌐 Portfolio: em Criação
 
 ## 🎯 Goals for 2024
 

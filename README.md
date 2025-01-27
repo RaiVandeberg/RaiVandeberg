@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1200&h=300&q=80" alt="Banner" width="100%"/>
   
-  # Rai Vandeberg
+  # Rai Vandenberg
   
   ### Full Stack Developer | Code Enthusiast
   
@@ -46,13 +46,6 @@ Foi aí que me apaixonei pela programação. Estou mergulhando de cabeça no uni
 - 💼 Open for collaboration on interesting projects
 - 📧 Email: 
 - 🌐 Portfolio: em Criação
-
-## 🎯 Goals for 2024
-
-- [ ] Contribute to more open-source projects
-- [ ] Master new technologies
-- [ ] Build impactful applications
-- [ ] Share knowledge through blog posts
 
 ---
 

@@ -45,16 +45,30 @@ Atualmente sou **fundador e responsável técnico do Rolefy**, onde tomo as deci
 ## Stack
 
 **Backend**
-`Node.js` · `TypeScript` · `NestJS` · `PostgreSQL` · `DynamoDB` · `Supabase` · `BullMQ` · `JWT / Keycloak (OIDC)`
+`Node.js` · `TypeScript` · `NestJS` · `PostgreSQL` · `DynamoDB (Dynamoose)` · `CouchDB` · `Supabase` · `Redis` · `BullMQ` · `S3 / Spaces` · `JWT / Keycloak (OIDC)`
 
 **Frontend**
-`React` · `Next.js` · `TailwindCSS` · `Zustand` · `SWR`
+`React` · `Next.js` · `TailwindCSS` · `React Hook Form` · `Zustand` · `SWR`
 
 **Mobile**
 `React Native / Expo` · `MobX State Tree`
 
 **Infra & DevOps**
 `Docker / Docker Compose` · `Nginx (reverse proxy)` · `Certbot / Let's Encrypt` · `Railway` · `VPS (Ubuntu)` · `Git` · `AWS (aprofundando)`
+
+---
+
+## Experiência
+
+### GTEEX · Desenvolvedor Full Stack
+Desenvolvimento e manutenção de sistemas internos de ponta a ponta — frontend, backend, banco e produção.
+
+- **CRM comercial** — fluxo de leads, cotações e geração de vendas, com **integração ao ERP Protheus/Winthor** para consultar e relacionar pedidos, produtos e cotações dentro do sistema interno
+- **Internacionalização** — configuração de idioma e moeda por concessionária, conversão de câmbio e geração de PDF traduzido mantendo compatibilidade com templates legados
+- **Gestão de contratos** — cadastro com histórico/versionamento (CouchDB), upload em S3/Spaces, compartilhamento e status automático por vigência
+- **Programa de premiações (GTEEX+)** — ranking mensal, atribuição automática de vencedores via filas (BullMQ) e escolha ordenada de prêmios com controle de expiração por janela de tempo
+- **App mobile** — telas de ranking, escolha de prêmio e perfil em React Native / Expo, com redução de requisições, cache local e correção de bugs de renderização
+- **Produção & dados** — deploys no Railway, diagnóstico de erros em produção, análise de custos na AWS e correções em PostgreSQL/Supabase
 
 ---
 
@@ -68,12 +82,6 @@ Plataforma de descoberta de locais e eventos com sistema de ranking e recompensa
 - **Pagamentos:** integração com gateway em modelo *marketplace* com split de valores entre recebedores
 - **Mobile:** aplicativo em React Native / Expo como front-end principal do produto
 - **Infra:** stack auto-hospedada com Docker Compose em VPS, Nginx como proxy reverso, certificados TLS via Certbot e DNS segmentado por subdomínio (auth/api)
-
-### Sistemas corporativos
-- **Gestão de RMA** com rastreabilidade de itens e estados
-- **Controle de contratos** com histórico e versionamento
-- **Dashboards operacionais** para acompanhamento de métricas internas
-- **Integrações automatizadas** entre plataformas distintas
 
 ---
 

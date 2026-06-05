@@ -1,7 +1,10 @@
 <div align="center">
 
 # Raí Vandenberg
-**Desenvolvedor Full Stack**
+
+**Desenvolvedor Full Stack · Backend & Arquitetura de Software**
+
+Construo sistemas do domínio à interface, com foco em previsibilidade, manutenibilidade e operação em produção.
 
 <a href="https://www.linkedin.com/in/rai-vandenberg/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -19,76 +22,71 @@
 
 ## Sobre
 
-Desenvolvedor full stack com foco principal em backend e arquitetura de aplicações.  
-Experiência prática na construção e manutenção de sistemas internos, APIs e integrações entre serviços.
+Desenvolvedor full stack com foco em **backend e arquitetura de aplicações**. Atuo no ciclo completo: modelagem de domínio, design de APIs, integrações entre serviços, persistência e a interface (web e mobile) que consome tudo isso.
 
-Trabalho desde a modelagem do domínio até a interface, priorizando previsibilidade, legibilidade e facilidade de manutenção do código.
+Levo decisões técnicas até a produção — não paro no código. Já assumi desde a estruturação de uma base relacional até deploy self-hosted, configuração de proxy reverso, SSL e autenticação centralizada. Priorizo soluções legíveis e fáceis de manter, e gosto de entender o *porquê* de cada escolha de arquitetura antes de adotá-la.
 
----
-
-## Principais Atividades
-
-- Desenvolvimento de APIs REST
-- Integração com sistemas externos (ERP, serviços terceiros)
-- Processamento assíncrono com filas e workers
-- Modelagem de banco de dados relacional e NoSQL
-- Refatoração e estabilização de sistemas em produção
-- Construção de interfaces web e mobile conectadas à API
+Atualmente sou **fundador e responsável técnico do Rolefy**, onde tomo as decisões de arquitetura e infraestrutura de ponta a ponta.
 
 ---
 
-## Tecnologias
+## Competências
 
-### Backend
-- Node.js / TypeScript
-- NestJS
-- PostgreSQL / Supabase
-- DynamoDB
-- BullMQ
-- Autenticação JWT / Supabase / Keycloak
+- **Design de APIs** — modelagem de contratos REST claros, versionáveis e consistentes
+- **Integrações** — sistemas externos (ERP, gateways de pagamento, serviços terceiros) com tratamento de falhas e idempotência
+- **Processamento assíncrono** — filas e workers para desacoplar e dar resiliência ao fluxo
+- **Modelagem de dados** — relacional e NoSQL, pensando em consistência e evolução de schema
+- **Autenticação e identidade** — SSO/IdP com Keycloak, JWT, fluxos OAuth2/OIDC
+- **Infraestrutura e deploy** — containerização, proxy reverso, TLS e operação de ambientes em VPS
+- **Estabilização** — refatoração e recuperação de sistemas legados em produção
 
-### Frontend
-- React
-- Next.js
-- TailwindCSS
-- Zustand / SWR
+---
 
-### Mobile
-- React Native
-- MobX State Tree
+## Stack
 
-### Infraestrutura
-- Docker
-- Railway
-- AWS (em estudo)
-- Git
+**Backend**
+`Node.js` · `TypeScript` · `NestJS` · `PostgreSQL` · `DynamoDB` · `Supabase` · `BullMQ` · `JWT / Keycloak (OIDC)`
+
+**Frontend**
+`React` · `Next.js` · `TailwindCSS` · `Zustand` · `SWR`
+
+**Mobile**
+`React Native / Expo` · `MobX State Tree`
+
+**Infra & DevOps**
+`Docker / Docker Compose` · `Nginx (reverse proxy)` · `Certbot / Let's Encrypt` · `Railway` · `VPS (Ubuntu)` · `Git` · `AWS (aprofundando)`
 
 ---
 
 ## Projetos
 
-**Rolefy**  
-Aplicação de descoberta de locais com sistema de ranking e recompensas.  
-Inclui controle de escolha ordenada de prêmios, regras de expiração e sincronização entre app e backend.
+### Rolefy — *fundador & tech lead*
+Plataforma de descoberta de locais e eventos com sistema de ranking e recompensas, voltada para estabelecimentos (bares, restaurantes, casas de evento) e seu público.
 
-**Sistemas corporativos**
-- Gestão de RMA com rastreabilidade
-- Controle de contratos com histórico de versões
-- Dashboards operacionais
-- Integrações automatizadas entre plataformas
+- **Backend:** API em NestJS + PostgreSQL, com regras de escolha ordenada de prêmios, expiração e sincronização entre app e servidor
+- **Auth:** Keycloak como provedor de identidade centralizado (realm próprio, OIDC), migrado de PaaS para infraestrutura própria
+- **Pagamentos:** integração com gateway em modelo *marketplace* com split de valores entre recebedores
+- **Mobile:** aplicativo em React Native / Expo como front-end principal do produto
+- **Infra:** stack auto-hospedada com Docker Compose em VPS, Nginx como proxy reverso, certificados TLS via Certbot e DNS segmentado por subdomínio (auth/api)
+
+### Sistemas corporativos
+- **Gestão de RMA** com rastreabilidade de itens e estados
+- **Controle de contratos** com histórico e versionamento
+- **Dashboards operacionais** para acompanhamento de métricas internas
+- **Integrações automatizadas** entre plataformas distintas
 
 ---
 
-## Atualmente estudando
+## Aprofundando
 
-- Design Patterns aplicados
-- Arquitetura orientada a domínio (DDD)
+- Design Patterns aplicados a problemas reais
+- Domain-Driven Design (DDD) e modelagem orientada ao domínio
 - Consistência de dados em sistemas distribuídos
-- Escalabilidade de aplicações Node.js
+- Estratégias de escalabilidade e observabilidade em Node.js
 
 ---
 
 ## Contato
 
-📧 **Email:** raibraz67@gmail.com  
-💼 **LinkedIn:** https://www.linkedin.com/in/rai-vandenberg/
+📧 **Email:** raibraz67@gmail.com
+💼 **LinkedIn:** [in/rai-vandenberg](https://www.linkedin.com/in/rai-vandenberg/)

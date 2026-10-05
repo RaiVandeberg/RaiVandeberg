@@ -1,100 +1,124 @@
 <div align="center">
 
-# Raí Vandenberg
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Ra%C3%AD%20Vandenberg&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Backend%20%26%20Arquitetura%20de%20Software&descAlignY=56&descSize=18" width="100%"/>
 
-**Desenvolvedor Full Stack · Backend & Arquitetura de Software**
+<a href="https://github.com/RaiVandeberg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=3B82F6&center=true&vCenter=true&width=600&lines=Dev+Pleno+Java+%40+ClipEscola;Founder+%26+Tech+Lead+%40+Rolefy;Do+dom%C3%ADnio+%C3%A0+interface+%E2%80%94+e+at%C3%A9+a+produ%C3%A7%C3%A3o" alt="Typing SVG"/>
+</a>
 
-Construo sistemas do domínio à interface, com foco em previsibilidade, manutenibilidade e operação em produção.
+<br/>
 
-<a href="https://www.linkedin.com/in/rai-vandenberg/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/RaiVandeberg" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="mailto:raibraz67@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/rai-vandenberg/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:raibraz67@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://rolefy.com.br"><img src="https://img.shields.io/badge/Rolefy-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Ilh%C3%A9us%2C%20BA-1f2937?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 </div>
 
 ---
 
-## Sobre
+### 👋 Sobre
 
-Desenvolvedor full stack com foco em **backend e arquitetura de aplicações**. Atuo no ciclo completo: modelagem de domínio, design de APIs, integrações entre serviços, persistência e a interface (web e mobile) que consome tudo isso.
+```ts
+const rai = {
+  role: "Desenvolvedor Full Stack · Backend & Arquitetura",
+  current: ["Dev Pleno Java @ ClipEscola", "Founder & Tech Lead @ Rolefy"],
+  focus: ["Integrações", "Design de APIs", "Processamento assíncrono", "Infra self-hosted"],
+  background: "Design gráfico → desenvolvimento (UI/UX como diferencial)",
+  learning: ["DDD", "Sistemas distribuídos", "Observabilidade", "Java moderno"],
+};
+```
 
-Levo decisões técnicas até a produção — não paro no código. Já assumi desde a estruturação de uma base relacional até deploy self-hosted, configuração de proxy reverso, SSL e autenticação centralizada. Priorizo soluções legíveis e fáceis de manter, e gosto de entender o *porquê* de cada escolha de arquitetura antes de adotá-la.
-
-Atualmente sou **fundador e responsável técnico do Rolefy**, onde tomo as decisões de arquitetura e infraestrutura de ponta a ponta.
-
----
-
-## Competências
-
-- **Design de APIs** — modelagem de contratos REST claros, versionáveis e consistentes
-- **Integrações** — sistemas externos (ERP, gateways de pagamento, serviços terceiros) com tratamento de falhas e idempotência
-- **Processamento assíncrono** — filas e workers para desacoplar e dar resiliência ao fluxo
-- **Modelagem de dados** — relacional e NoSQL, pensando em consistência e evolução de schema
-- **Autenticação e identidade** — SSO/IdP com Keycloak, JWT, fluxos OAuth2/OIDC
-- **Infraestrutura e deploy** — containerização, proxy reverso, TLS e operação de ambientes em VPS
-- **Estabilização** — refatoração e recuperação de sistemas legados em produção
+Levo decisões técnicas até a produção — da modelagem de domínio ao deploy, proxy reverso, TLS e autenticação centralizada. Priorizo soluções legíveis, fáceis de manter, e gosto de entender o **porquê** de cada escolha de arquitetura antes de adotá-la.
 
 ---
 
-## Stack
+### 🛠️ Stack
 
-**Backend**
-`Node.js` · `TypeScript` · `NestJS` · `PostgreSQL` · `DynamoDB (Dynamoose)` · `CouchDB` · `Supabase` · `Redis` · `BullMQ` · `S3 / Spaces` · `JWT / Keycloak (OIDC)`
+<div align="center">
 
-**Frontend**
-`React` · `Next.js` · `TailwindCSS` · `React Hook Form` · `Zustand` · `SWR`
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,nestjs&perline=8" />
 
-**Mobile**
-`React Native / Expo` · `MobX State Tree`
+**Dados & Mensageria**<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,supabase,mongodb&perline=8" />
 
-**Infra & DevOps**
-`Docker / Docker Compose` · `Nginx (reverse proxy)` · `Certbot / Let's Encrypt` · `Railway` · `VPS (Ubuntu)` · `Git` · `AWS (aprofundando)`
+**Front & Mobile**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma&perline=8" />
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" height="48"/>
 
----
+**Infra & DevOps**<br/>
+<img src="https://skillicons.dev/icons?i=docker,nginx,linux,aws,cloudflare,githubactions,git&perline=8" />
 
-## Experiência
+<br/>
 
-### GTEEX · Desenvolvedor Full Stack
-Desenvolvimento e manutenção de sistemas internos de ponta a ponta — frontend, backend, banco e produção.
+<img src="https://img.shields.io/badge/Keycloak_(OIDC)-4D4D4D?style=flat-square&logo=keycloak&logoColor=white"/>
+<img src="https://img.shields.io/badge/BullMQ-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/CouchDB-E42528?style=flat-square&logo=apachecouchdb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Let's_Encrypt-003A70?style=flat-square&logo=letsencrypt&logoColor=white"/>
+<img src="https://img.shields.io/badge/MobX-FF9955?style=flat-square&logo=mobx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pagar.me_v5-65A300?style=flat-square"/>
 
-- **CRM comercial** — fluxo de leads, cotações e geração de vendas, com **integração ao ERP Protheus/Winthor** para consultar e relacionar pedidos, produtos e cotações dentro do sistema interno
-- **Internacionalização** — configuração de idioma e moeda por concessionária, conversão de câmbio e geração de PDF traduzido mantendo compatibilidade com templates legados
-- **Gestão de contratos** — cadastro com histórico/versionamento (CouchDB), upload em S3/Spaces, compartilhamento e status automático por vigência
-- **Programa de premiações (GTEEX+)** — ranking mensal, atribuição automática de vencedores via filas (BullMQ) e escolha ordenada de prêmios com controle de expiração por janela de tempo
-- **App mobile** — telas de ranking, escolha de prêmio e perfil em React Native / Expo, com redução de requisições, cache local e correção de bugs de renderização
-- **Produção & dados** — deploys no Railway, diagnóstico de erros em produção, análise de custos na AWS e correções em PostgreSQL/Supabase
-
----
-
-## Projetos
-
-### Rolefy — *fundador & tech lead*
-Plataforma de descoberta de locais e eventos com sistema de ranking e recompensas, voltada para estabelecimentos (bares, restaurantes, casas de evento) e seu público.
-
-- **Backend:** API em NestJS + PostgreSQL, com regras de escolha ordenada de prêmios, expiração e sincronização entre app e servidor
-- **Auth:** Keycloak como provedor de identidade centralizado (realm próprio, OIDC), migrado de PaaS para infraestrutura própria
-- **Pagamentos:** integração com gateway em modelo *marketplace* com split de valores entre recebedores
-- **Mobile:** aplicativo em React Native / Expo como front-end principal do produto
-- **Infra:** stack auto-hospedada com Docker Compose em VPS, Nginx como proxy reverso, certificados TLS via Certbot e DNS segmentado por subdomínio (auth/api)
+</div>
 
 ---
 
-## Aprofundando
+### 💼 Experiência
 
-- Design Patterns aplicados a problemas reais
-- Domain-Driven Design (DDD) e modelagem orientada ao domínio
-- Consistência de dados em sistemas distribuídos
-- Estratégias de escalabilidade e observabilidade em Node.js
+**ClipEscola** · Desenvolvedor Pleno (Java) · `set/2026 — atual`
+> Módulo de integração entre a plataforma e os ERPs educacionais das escolas.
+- Integrações com **dezenas de ERPs escolares** via API (REST/SOAP) e banco, incluindo **TOTVS RM Educacional**
+- Padronização e correção de dados de alunos entre origens heterogêneas (formatos, views, campos ausentes)
+- Stack: `Java` · `MySQL` · `WildFly`
+
+**GTEEX** · Desenvolvedor Full Stack · `mai/2025 — ago/2026`
+> Sistemas B2B para concessionárias — do banco à interface e à operação em produção.
+- **CRM comercial** com leads, cotações e vendas integrado ao **ERP Protheus/Winthor**
+- **Internacionalização** por concessionária (idioma, moeda, câmbio, PDF traduzido)
+- **Gestão de contratos** com versionamento (CouchDB), storage em S3/Spaces e vigência automática
+- **Programa GTEEX+** — ranking mensal e premiação automática via filas (BullMQ)
+- **App mobile** em React Native/Expo, deploys no Railway, análise de custos AWS e correções em PostgreSQL/Supabase
 
 ---
 
-## Contato
+### 🚀 Projeto em destaque
 
-📧 **Email:** raibraz67@gmail.com
-💼 **LinkedIn:** [in/rai-vandenberg](https://www.linkedin.com/in/rai-vandenberg/)
+<table>
+<tr>
+<td width="100%">
+
+### [Rolefy](https://rolefy.com.br) — *founder & tech lead*
+Marketplace de descoberta de eventos e venda de ingressos, focado em cidades menores do Brasil.
+
+| Camada | Decisões |
+|---|---|
+| **Backend** | NestJS + PostgreSQL 17, regras de domínio isoladas (DDD) |
+| **Auth** | Keycloak 26 (realm próprio, OIDC) migrado de PaaS para infra própria |
+| **Pagamentos** | Pagar.me v5 em modelo marketplace com **split** entre recebedores |
+| **Mobile** | React Native / Expo (New Architecture, Expo Router) |
+| **Infra** | VPS + Docker Compose, Nginx, TLS via Certbot, storage e assets em Cloudflare R2 |
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 GitHub
+
+<div align="center">
+  <img height="170" src="./profile/stats.svg" />
+  <img height="170" src="./profile/top-langs.svg" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=RaiVandeberg&theme=tokyonight&hide_border=true&background=0D1117" />
+</div>
+
+---
+
+<div align="center">
+
+📫 **raibraz67@gmail.com** · 💼 [in/rai-vandenberg](https://www.linkedin.com/in/rai-vandenberg/)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=110&section=footer" width="100%"/>
+
+</div>

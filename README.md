@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Ra%C3%AD%20Vandenberg&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Backend%20%26%20Arquitetura%20de%20Software&descAlignY=56&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Ra%C3%AD%20Vandenberg&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Backend%20%C2%B7%20Arquitetura%20de%20Software&descAlignY=56&descSize=18" width="100%"/>
 
 <a href="https://github.com/RaiVandeberg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=3B82F6&center=true&vCenter=true&width=600&lines=Dev+Pleno+Java+%40+ClipEscola;Founder+%26+Tech+Lead+%40+Rolefy;Do+dom%C3%ADnio+%C3%A0+interface+%E2%80%94+e+at%C3%A9+a+produ%C3%A7%C3%A3o" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=3B82F6&center=true&vCenter=true&width=600&lines=Desenvolvedor+Java+Pleno;Founder+%26+Tech+Lead+%40+Rolefy;Do+dom%C3%ADnio+%C3%A0+interface+%E2%80%94+e+at%C3%A9+a+produ%C3%A7%C3%A3o" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -22,7 +22,7 @@
 ```ts
 const rai = {
   role: "Desenvolvedor Full Stack · Backend & Arquitetura",
-  current: ["Dev Pleno Java @ ClipEscola", "Founder & Tech Lead @ Rolefy"],
+  current: ["Desenvolvedor Java Pleno", "Founder & Tech Lead @ Rolefy"],
   focus: ["Integrações", "Design de APIs", "Processamento assíncrono", "Infra self-hosted"],
   background: "Design gráfico → desenvolvimento (UI/UX como diferencial)",
   learning: ["DDD", "Sistemas distribuídos", "Observabilidade", "Java moderno"],
